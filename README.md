@@ -7,7 +7,7 @@ Frontend Developer
 I am a student at Noroff Vocational School. I can't wait to use my new skills in real projects!
 
 * 🌍  I'm based in Bergen/Osterøy
-* 🧠  I'm learning wordpress REST API and JS
+* 🧠  I'm currently working on my exam-1. We're going to make a blog site using html, css, javascript and wordpress REST api
 * ⚡  I daydream of using my born-with skills (illustrating) together with my new skills as a Frontend Developer
 
 ### Skills
