@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a student at Noroff Vocational School. I can't wait to use my new skills in real projects!
+I am a student at Noroff Vocational School. I can't wait to use my new skills!
 
 * 🌍  I'm based in Bergen/Osterøy
-* 🧠  I'm currently working on my exam-1. We're going to make a blog site using html, css, javascript and wordpress REST api
+* 🧠  Besides following the study plan at Noroff, I have two side projects. That way I always have something on my mind! 
 * ⚡  I daydream of using my born-with skills (illustrating) together with my new skills as a Frontend Developer
 
 ### Skills
